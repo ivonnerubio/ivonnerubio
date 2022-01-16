@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonnerubio&exclude_repo=github-readme-stats,Python-DSA-Intro,flow-crm-tutorial,web-portfolio,API-Cerveza-Generator,Beer-Genereator,portfoliowebsite,website,ivonnerubio.github.io,Bien-Studio-Re,mis4397-stirred_quarantini-f20,Front-End-Development,MIS3371,bien.studio)]
+
+![Ivonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivonnerubio&hide=contribs,prs&include_all_commits=true&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api/Automatic-Document-Revision-Control/?username=ivonnerubio&theme=radical" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivonnerubio&repo=Automatic-Document-Revision-Control)](https://github.com/ivonnerubio/Automatic-Document-Revision-Control)
+
 <!--
 **ivonnerubio/ivonnerubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivonnerubio&show_icons=true&theme=radical)
