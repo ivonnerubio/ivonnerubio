@@ -1,6 +1,11 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonnerubio&exclude_repo=github-readme-stats,Python-DSA-Intro,flow-crm-tutorial,web-portfolio,API-Cerveza-Generator,Beer-Genereator,portfoliowebsite,website,ivonnerubio.github.io,Bien-Studio-Re,mis4397-stirred_quarantini-f20,Front-End-Development,MIS3371,bien.studio)]
+# Hi, Im Ivonne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![AvatarMaker (2)](https://user-images.githubusercontent.com/28023005/149669511-756b4e57-1293-48e9-8d1b-d17a230572f5.png)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonnerubio&layout=compact&exclude_repo=github-readme-stats,Python-DSA-Intro,flow-crm-tutorial,web-portfolio,API-Cerveza-Generator,Beer-Genereator,portfoliowebsite,website,ivonnerubio.github.io,Bien-Studio-Re,mis4397-stirred_quarantini-f20,Front-End-Development,MIS3371,bien.studio)]
 
 ![Ivonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivonnerubio&hide=contribs,prs&include_all_commits=true&show_icons=true&theme=radical)
 <img align="center" src="https://github-readme-stats.vercel.app/api/Automatic-Document-Revision-Control/?username=ivonnerubio&theme=radical" />
@@ -8,6 +13,7 @@
 
 <!--
 **ivonnerubio/ivonnerubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Uploading AvatarMaker.png…]()
 
 Here are some ideas to get you started:
 
@@ -22,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Ivonne</h1>
+<h1 align="center">Hi, I'm Ivonne <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h3 align="center">A passionate Java developer from Houston Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivonnerubio&label=Profile%20views&color=0e75b6&style=flat" alt="ivonnerubio" /> </p>
@@ -48,8 +54,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivonnerubio&show_icons=true&locale=en&layout=compact" alt="ivonnerubio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivonnerubio&show_icons=true&locale=en" alt="ivonnerubio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivonnerubio&" alt="ivonnerubio" /></p>
