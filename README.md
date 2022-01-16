@@ -1,17 +1,19 @@
 
-# Hi, Im Ivonne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![AvatarMaker (2)](https://user-images.githubusercontent.com/28023005/149669511-756b4e57-1293-48e9-8d1b-d17a230572f5.png)
+# Hi, I'm Ivonne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img align='right' src = "https://user-images.githubusercontent.com/28023005/149669511-756b4e57-1293-48e9-8d1b-d17a230572f5.png" width = "230">
 
+<br><br>
+I'm a passionate Java developer from Houston Texas about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the React ecosystem led me to launch React Ladies, a community for women and non-binary ReactJS developers.
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonnerubio&layout=compact&exclude_repo=github-readme-stats,Python-DSA-Intro,flow-crm-tutorial,web-portfolio,API-Cerveza-Generator,Beer-Genereator,portfoliowebsite,website,ivonnerubio.github.io,Bien-Studio-Re,mis4397-stirred_quarantini-f20,Front-End-Development,MIS3371,bien.studio)]
 
 ![Ivonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivonnerubio&hide=contribs,prs&include_all_commits=true&show_icons=true&theme=radical)
 <img align="center" src="https://github-readme-stats.vercel.app/api/Automatic-Document-Revision-Control/?username=ivonnerubio&theme=radical" />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivonnerubio&repo=Automatic-Document-Revision-Control)](https://github.com/ivonnerubio/Automatic-Document-Revision-Control)
 
-<!--
+
 **ivonnerubio/ivonnerubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Uploading AvatarMaker.png…]()
 
@@ -28,22 +30,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi, I'm Ivonne <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h3 align="center">A passionate Java developer from Houston Texas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivonnerubio&label=Profile%20views&color=0e75b6&style=flat" alt="ivonnerubio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivonnerubio" alt="ivonnerubio" /></a> </p>
+
+
 
 - 🌱 I’m currently learning [Data Structures and Algorithms](https://github.com/ivonnerubio/Java-DSA-Intro)
 
 - 💬 Ask me about [Automatic Document Revision Control](https://github.com/ivonnerubio/Automatic-Document-Revision-Control)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ivonnerubio/](https://github.com/ivonnerubio/)
-
-- 📫 How to reach me **irubio081@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ivonnerubio/](https://www.linkedin.com/in/ivonnerubio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
