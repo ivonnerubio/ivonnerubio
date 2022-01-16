@@ -3,7 +3,7 @@
 
 <img align='right' src = "https://user-images.githubusercontent.com/28023005/149669511-756b4e57-1293-48e9-8d1b-d17a230572f5.png" width = "230">
 
-<br><br>
+<br>
 I'm a Java developer from Houston who is passionate about contributing to open-source projects, learning technology to make systems easier to use, and sharing my knowledge with others as much as possible. Some technologies I enjoy working with include Java, Python, and Arduino. Feel free to reach out if you want to connect.
 
 <!--
