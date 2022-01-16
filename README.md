@@ -4,7 +4,7 @@
 <img align='right' src = "https://user-images.githubusercontent.com/28023005/149669511-756b4e57-1293-48e9-8d1b-d17a230572f5.png" width = "230">
 
 <br>
-I'm a Java developer from Houston who is passionate about contributing to open-source projects, learning technology to make systems easier to use, and sharing my knowledge with others as much as possible. Some technologies I enjoy working with include Java, Python, and Arduino. Feel free to reach out if you want to connect.
+I'm a Java developer from Houston who is passionate about contributing to open-source projects, learning technology to make systems easier to use, and sharing my knowledge with others as much as possible. Some technologies I enjoy working with Java, Python, and Arduino. Feel free to reach out if you want to connect.
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonnerubio&layout=compact&exclude_repo=github-readme-stats,Python-DSA-Intro,flow-crm-tutorial,web-portfolio,API-Cerveza-Generator,Beer-Genereator,portfoliowebsite,website,ivonnerubio.github.io,Bien-Studio-Re,mis4397-stirred_quarantini-f20,Front-End-Development,MIS3371,bien.studio)]
