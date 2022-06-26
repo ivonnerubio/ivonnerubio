@@ -1,5 +1,5 @@
 
-# Hi, I'm Ivonne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Ivonne! 👋
 
 <!-- <img align='right' src = "https://user-images.githubusercontent.com/28023005/149669511-756b4e57-1293-48e9-8d1b-d17a230572f5.png" width = "230">
  -->
