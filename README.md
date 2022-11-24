@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning [Computational Neuroscience]([https://github.com/ivonnerubio/Java-DSA-Intro](https://github.com/ivonnerubio/Neuromatch-Academy-Computational-Neuroscience)
+- 🌱 I’m currently learning [Computational Neuroscience](https://github.com/ivonnerubio/Neuromatch-Academy-Computational-Neuroscience)
 
 - 💬 Ask me about [Automatic Document Revision Control](https://github.com/ivonnerubio/Automatic-Document-Revision-Control)
 
