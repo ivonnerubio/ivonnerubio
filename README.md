@@ -4,7 +4,7 @@
 <!-- <img align='right' src = "https://user-images.githubusercontent.com/28023005/149669511-756b4e57-1293-48e9-8d1b-d17a230572f5.png" width = "230">
  -->
 <br>
-I'm a Java developer from Houston who is passionate about contributing to open-source projects, learning technology to make systems easier to use, and sharing my knowledge with others as much as possible. Some technologies I enjoy working with are Java, Python, and Arduino. Feel free to reach out if you want to connect.
+I'm a developer from Houston that likes to break my brain trying to learn complicated topics, automating tasks, and sharing my knowledge with others as much as possible. Some technologies I enjoy working with are Java, Python, and MatPlotLib. Feel free to reach out if you want to connect.
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivonnerubio&layout=compact&exclude_repo=github-readme-stats,Python-DSA-Intro,flow-crm-tutorial,web-portfolio,API-Cerveza-Generator,Beer-Genereator,portfoliowebsite,website,ivonnerubio.github.io,Bien-Studio-Re,mis4397-stirred_quarantini-f20,Front-End-Development,MIS3371,bien.studio)]
@@ -56,9 +56,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="35"/>
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="35"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="35"/> 
-  </a> 
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" target="_blank"/> 
