@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning [Computational Neuroscience](https://github.com/ivonnerubio/Neuromatch-Academy-Computational-Neuroscience)
 
-- 💬 Ask me about [Automatic Document Revision Control](https://github.com/ivonnerubio/Automatic-Document-Revision-Control)
+- 💬 Ask me about [Pseudowords with Hopfield Network](https://github.com/ivonnerubio/Pseudowords-with-Hopfield-Network)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
