@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/ivonnerubio" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivonnerubio" height="25" width="35" />
   </a>
-<a href="https://stackoverflow.com/users/17442843/ivonne-r" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ivonne-r" height="25" width="35" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
